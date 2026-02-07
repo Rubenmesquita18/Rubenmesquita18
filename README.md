@@ -12,7 +12,7 @@ Sou um desenvolvedor **Front-end** apaixonado por transformar ideias em interfac
 
 [![My Skills](https://skillicons.dev/icons?i=,html,css,js,git,github,figma,vscode)](https://skillicons.dev)
 
-📚 Atualmente estou me expecializando e estudando para:
+📚 Atualmente estou me especializando e estudando para:
 
 [![My Skills](https://skillicons.dev/icons?i=,nodejs,react,ts)](https://skillicons.dev)
 
